@@ -1,0 +1,5 @@
+{
+  "name": "Emotion AI Studio",
+  "description": "Real-time facial emotion recognition with AI-powered motivational feedback.",
+  "requestFramePermissions": ["camera"]
+}
